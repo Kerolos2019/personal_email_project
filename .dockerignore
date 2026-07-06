@@ -1,0 +1,12 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.vscode/
+.idea/
+graph.png
+graph.mmd
+.ipynb_checkpoints/

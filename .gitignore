@@ -1,0 +1,25 @@
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Generated graph output
+graph.png
+graph.mmd
+
+# Jupyter
+.ipynb_checkpoints/
